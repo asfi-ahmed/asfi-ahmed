@@ -1,5 +1,5 @@
 <h1>Hi, I'm Asfi! <br/><a href="https://github.com/asfi-ahmed">Casual Programmer</a>, <a href="https://www.linkedin.com/in/asfi-ahmed/">Cybersecurity Enthusiast</a></h1>
-<h3><br>- 🔭 I’m currently working on Cybersecurity career </br>
+<h3><br>- 🔭 I’m currently seeking jobs in Cybersecurity field </br>
 <br>- 🌱 I’m currently learning Pentesting </br>
 <br>- 🤔 I’m looking for help with Ethical Hacking </br>
 <br>- 💬 Ask me about cybersec news, security breaches, IT(Ik its kinda generic lol 😪), geopolitics 🤓, conspiracies 🤯 (ooowowow), Philosophy 😐 </br>
