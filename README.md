@@ -17,6 +17,10 @@
 
 <h2>💻🔐Cybersecurity Projects</h2>
 
+- <b>Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
+  - [Practicing Oracle VirtualBox creates an Active Directory home lab. hands-on learning in AD, scripting, and network setups](https://github.com/asfi-ahmed/-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell)
+
+
 <h2>📢🔐 My Blogs on Cybersecurity</h2>
 
 
