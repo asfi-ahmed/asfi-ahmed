@@ -23,6 +23,7 @@
 
 <h2>📢🔐 My Blogs on Cybersecurity</h2>
 
+- [2023 Cyber Landscape: Watch Out for AI, Quantum, Data Risks](https://editor.wix.com/html/editor/web/renderer/edit/c081c417-3656-48c5-94a7-5ecbe223118a?metaSiteId=106f7671-da8d-4921-94fd-cf6b557004e5) <b>
 
 
 <h2> 🤳 Connect with me:</h2>
