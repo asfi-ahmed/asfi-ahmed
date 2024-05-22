@@ -8,7 +8,7 @@
 <br>- 📫 How to reach me: Gmail, linkedIn. Links are down below! (Also can reach me via social media, just search my name hehe 😛)</br>
 <br>- ⚡ Fun fact: Being persistant sometimes wears you out. Trying to minimize the damage hehe 😴 </br></h3>
   
-<h2>👨‍💻 Programming Projects:</h2>
+<h2>👨‍💻 Programming Projects (Fullstack - up n running):</h2>
 
 - <b>HalalMeatChain DApp BlockChain project</b>
   - [Praciting Solidity, Ganache, Metamask](https://github.com/asfi-ahmed/Halal-MeatChain-DApp-Using-Solidity-BlockChain-Project-)
@@ -18,10 +18,11 @@
   - [Fullstack webApp using PHP, Laravel, Mysql, Apache](https://github.com/asfi-ahmed/Final-Project-Group_2)
  
 <h3>👨‍💻 Web Dev Projects (Practices and Experiments):</h3>
-- <b>Coffe Shop Landing page</b>
-  - [Practice HTML and CSS] (https://github.com/asfi-ahmed/Coffee-landing-page) </b>
+
+- <b>Coffee Shop Landing page</b>
+  - [Practice HTML and CSS](https://github.com/asfi-ahmed/Coffee-landing-page) </b>
 - <b>Hoodie Shop Landing Page</b>
-  - [Practice HTML and CSSl] (https://github.com/asfi-ahmed/Hoodie-shop-landing-page) </b>
+  - [Practice HTML and CSS](https://github.com/asfi-ahmed/Hoodie-shop-landing-page) </b>
 
 <h2>💻🔐Cybersecurity Projects</h2>
 
