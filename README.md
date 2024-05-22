@@ -1,5 +1,5 @@
 <h1>Hi, I'm Asfi! <br/><a href="https://github.com/asfi-ahmed">Casual Programmer</a>, <a href="https://www.linkedin.com/in/asfi-ahmed/">Cybersecurity Enthusiast || FullStack Developer (JS, MERN)</a></h1>
-<h3><br>- 🔭 I’m currently seeking jobs in Cybersecurity field </br>
+<h3><br>- 🔭 I’m currently seeking jobs in Cybersecurity field and WebDev field </br>
 <br>- 🌱 I’m currently learning Cloudflare, AWS, CrowdStrike and ElasticStack. Also honing my skills in Bash scriptinng. </br>
 <br>- 🌱 I’m currently learning HTML, CSS, JavaScript, MongoDB, Express, React, Node.js, Tailwind. Basically on my way to be a FullStack Developer!! </br>
 <br>- 🤔 I'm looking for help with FullStack Developer roadmap! </br>
