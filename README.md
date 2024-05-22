@@ -1,6 +1,8 @@
-<h1>Hi, I'm Asfi! <br/><a href="https://github.com/asfi-ahmed">Casual Programmer</a>, <a href="https://www.linkedin.com/in/asfi-ahmed/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Asfi! <br/><a href="https://github.com/asfi-ahmed">Casual Programmer</a>, <a href="https://www.linkedin.com/in/asfi-ahmed/">Cybersecurity Enthusiast || FullStack Developer (JS, MERN)</a></h1>
 <h3><br>- 🔭 I’m currently seeking jobs in Cybersecurity field </br>
 <br>- 🌱 I’m currently learning Cloudflare, AWS, CrowdStrike and ElasticStack. Also honing my skills in Bash scriptinng. </br>
+<br>- 🌱 I’m currently learning HTML, CSS, JavaScript, MongoDB, Express, React, Node.js, Tailwind. Basically on my way to be a FullStack Developer!! </br>
+<br>- 🤔 I'm looking for help with FullStack Developer roadmap! </br>
 <br>- 🤔 I’m looking for help with Ethical Hacking </br>
 <br>- 💬 Ask me about cybersec news, security breaches, IT(Ik its kinda generic lol 😪), geopolitics 🤓, conspiracies 🤯 (ooowowow), Philosophy 😐 </br>
 <br>- 📫 How to reach me: Gmail, linkedIn. Links are down below! (Also can reach me via social media, just search my name hehe 😛)</br>
