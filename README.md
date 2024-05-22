@@ -13,9 +13,15 @@
 - <b>HalalMeatChain DApp BlockChain project</b>
   - [Praciting Solidity, Ganache, Metamask](https://github.com/asfi-ahmed/Halal-MeatChain-DApp-Using-Solidity-BlockChain-Project-)
 - <b>A Point of Sale System</b>
-  - [Practicing PHP, Laravel, SQL](https://github.com/asfi-ahmed/Case-Study-Group_2) <b>
+  - [Practicing PHP, Laravel, SQL](https://github.com/asfi-ahmed/Case-Study-Group_2) </b>
 - <b>Fitness Training Center</b>
   - [Fullstack webApp using PHP, Laravel, Mysql, Apache](https://github.com/asfi-ahmed/Final-Project-Group_2)
+ 
+<h3>👨‍💻 Web Dev Projects (Practices and Experiments):</h3>
+- <b>Coffe Shop Landing page</b>
+  - [Practice HTML and CSS] (https://github.com/asfi-ahmed/Coffee-landing-page) </b>
+- <b>Hoodie Shop Landing Page</b>
+  - [Practice HTML and CSSl] (https://github.com/asfi-ahmed/Hoodie-shop-landing-page) </b>
 
 <h2>💻🔐Cybersecurity Projects</h2>
 
