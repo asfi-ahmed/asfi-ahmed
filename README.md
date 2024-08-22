@@ -28,6 +28,11 @@
 
 - <b>Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
   - [Practicing Oracle VirtualBox creates an Active Directory home lab. hands-on learning in AD, scripting, and network setups](https://github.com/asfi-ahmed/-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell)
+ 
+<h2>💸📈Business Projects</h2>
+
+- <b>PROJECT MANAGEMENT IN IT || Final Report || Website for IIUM Lecturer</b>
+  - [Understanding of Project Management in IT with real life client and project](https://github.com/asfi-ahmed/PMIT-Project-Management-in-IT-)
 
 
 <h2>📢🔐 My Blogs on Cybersecurity</h2>
