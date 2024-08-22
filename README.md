@@ -34,6 +34,9 @@
 - <b>PROJECT MANAGEMENT IN IT || Final Report || Website for IIUM Lecturer</b>
   - [Understanding of Project Management in IT with real life client and project](https://github.com/asfi-ahmed/PMIT-Project-Management-in-IT-)
 
+- <b>TECHNOPRENEURSHIP || SwiftTEch Emporium || Bsuiness Case Paper</b>
+  - [A business case paper on multisided business model plan to serve to dimish a vaccume in Bangladesh tech sector](https://github.com/asfi-ahmed/TECHNOPRENEURSHIP-Business-Case-Paper)
+
 
 <h2>📢🔐 My Blogs on Cybersecurity</h2>
 
